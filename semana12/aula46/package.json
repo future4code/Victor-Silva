@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^14.0.27",
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   }
 }
